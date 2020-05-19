@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: 'e5e3ab99-6800-471d-910e-d677ff220848'
   imageRepository: 'cvfrontendegil'
   containerRegistry: 'nrkegil.azurecr.io'
-  dockerfilePath: '$(Build.SourcesDirectory)/backend/Dockerfile'
+  dockerfilePath: '$(Build.SourcesDirectory)/frontend/Dockerfile'
   tag: '$(Build.BuildId)'
   
   # Agent VM image name
