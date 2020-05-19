@@ -2,14 +2,14 @@ const education = [
     {
         yearFrom: 2005,
         yearTo: 2007,
-        place: 'University 1',
-        comment: 'Studying'
+        place: 'VGS',
+        comment: 'Russetid'
     },
     {
         yearFrom: 2001,
         yearTo: 2004,
-        place: 'Barista academy',
-        comment: 'Made coffee'
+        place: 'FHS',
+        comment: 'Friluftsliv'
     }
 ]
 
@@ -17,19 +17,19 @@ const work = [
     {
         yearFrom: 2010,
         yearTo: 2018,
-        place: 'BBC Radio',
-        comment: 'Was doing stuff'
+        place: 'Sofaen',
+        comment: 'Så på TV'
     },
     {
         yearFrom: 2009,
         yearTo: 2010,
-        place: 'The coffee shop',
-        comment: 'Making coffee'
+        place: 'Hjemme',
+        comment: 'Ingenting'
     }
 ]
 
 const me = {
-    name: 'Arthur Dent',
+    name: 'Egil Lillehaug',
     location: 'Earth'
 }
 
